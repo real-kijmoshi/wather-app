@@ -15,6 +15,11 @@
 
 ### 🏠 [Homepage](https://github.com/real-kijmoshi/wather-app)
 
+#
+## preview
+![preview](/preview.png)
+#
+
 ## Install
 
 ```sh
